@@ -10,9 +10,10 @@ dhack.py Bot.mp3 aud.sh
 Una ves esto le decimos que instale termux o le pasamos termux por Bluetooth 
 y le pedimos para ponerle la herramienta , escribimos ifconfig
 para ver su ip privada , la memorizamos o tomamos foto de nuestro cell
-una ves esto actualizamos termux, instalamos python
+una ves esto actualizamos termux, instalamos python y netcat-openbsd
 y ejecutamos python dhack.py 
 
 *****
 TUTORIAL EN YOUTUBE 
 
+https://youtu.be/IsP5Q2RuRw8
